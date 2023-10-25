@@ -3,5 +3,7 @@ DIY_Pensieve: A framework of video streaming for Reinforcement Learning
 
 # Environment
 <ul>
-<li>python 3.11.5</li>
-<li>numpy 1.26.0</li>
+<li>python = 3.8.18</li>
+<li>numpy = 1.24.3</li>
+<li>cuda = 11.7</li>
+<li>pytorch = 1.13.1</li>
